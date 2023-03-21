@@ -2,7 +2,7 @@
 
 [![discord](https://img.shields.io/badge/chat-on%20discord-7289da.svg?sanitize=true)](https://chat.imzbb.cc)
 
-[English](https://github.com/zhengbangbo/chat-simplifier/blob/main/README.md) | 中文
+[English](https://github.com/zhengbangbo/chat-simplifier/blob/main/README_en.md) | 中文
 
 此项目使用 AI 为您简化聊天内容
 
